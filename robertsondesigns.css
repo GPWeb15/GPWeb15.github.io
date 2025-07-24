@@ -55,3 +55,14 @@ title {
   padding: 1vw .5vw;
   text-align: center;
 }
+
+.black-box {
+  background: #000;
+  color: #fff;
+  padding: 24px 32px;
+  text-align: left;
+  border-radius: 8px;
+  margin-bottom: 32px;
+  display: inline-block;
+  width: auto;
+}
